@@ -1,0 +1,18 @@
+#Logical Operators      (And,Or,Not Operators)
+#And operators      Both condtions must be true
+age=20
+has_id=True
+if age>=18 and has_id:
+    print("Entry Allowed")
+
+
+#OR Operator         Only one condtion must be true
+day="sunday"
+if day=="sunday" or day=="saturday":
+    print("Weekend")
+
+
+#NOT Operators      Reverse a Boolean Value
+logged_in=False
+if not logged_in:
+    print("Please Log in first")

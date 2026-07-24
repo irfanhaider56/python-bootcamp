@@ -4,7 +4,7 @@ for row in range(3):
         print("*", end=" ")
     print()    #this print() moves to next row
 
-for row in range(5):
-    for coloum in range(5):
+for row in range(6):
+    for coloum in range(row):
         print("*",end=" ")
     print()

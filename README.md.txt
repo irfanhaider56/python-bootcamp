@@ -12,4 +12,5 @@ Learn Python from beginner to advanced by building projects and solving problems
 - ✅ Day 3 – Conditional Statements and mini projects
 - ✅ Day 4 – Loops and mini projects
 - ✅ Day 5 – Function and mini projects
-- ⏳ Day 6 - Strings (comiing soon )
+- ✅ Day 6 - Strings and projects
+- ⏳ Day 6 - Lists (coming soon)
